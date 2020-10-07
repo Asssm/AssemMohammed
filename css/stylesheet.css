@@ -31,7 +31,7 @@ body {
      background-color: #ffbd39;
      margin-top: 0;
      height:700px; 
-     width: 100%;
+     width: 100vw;
         padding: 16px;
 
  }
@@ -51,7 +51,7 @@ body {
     
     padding: 16px;
 
-    width: 100%;
+    width: 100vw;
     font-size: 30px;
  }
 
@@ -63,7 +63,7 @@ body {
     
         padding: 16px;
        font-size: 30px; 
-         width: 100%;
+         width: 100vw;
 
  }
   #knight{
