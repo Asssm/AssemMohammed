@@ -2,6 +2,7 @@
 body {
     background-color: #3a0088;
     margin: 0;
+    font-family: 'Merriweather', serif;
 }
 
 
@@ -39,6 +40,12 @@ body {
      font-size: 50px;
     margin:0;
  padding-top: 80px;
+font-family: 'Philosopher', sans-serif; }
+ h2{
+ font-family: 'Montserrat', sans-serif;
+ }
+ h3{
+ font-family: 'Montserrat', sans-serif;
  }
  #job{
      font-size: 22px;
@@ -73,5 +80,7 @@ body {
      p{
          display: inline-block;
      }
+     #knight {
+         position: static; 
 
-
+     }
